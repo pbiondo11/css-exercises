@@ -1,0 +1,27 @@
+#format2 {
+
+color: rgb(43, 43, 209);
+font-size: 36px;
+
+}
+
+.oddfontbig{
+
+font-size: 24px;
+
+}
+
+#format4{
+
+background-color: rgb(104, 240, 104);
+font-size: 24px;
+font-weight: bold;
+
+}
+
+.oddnumbers{
+
+    font-family: Verdana, sans-serif;
+    background-color: rgb(240, 165, 178);
+
+}
